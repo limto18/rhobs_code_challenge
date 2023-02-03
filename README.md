@@ -14,19 +14,19 @@
 ## Output
 1.  Compter le nombre de femmes / d'hommes.
   
-<img src="./images/count_men_women.png"  />
+<img src="./images/count_men_women.PNG"  />
 
 2. Écrire une fonction qui renvoie les entreprises de plus de N personnes.
 
-<img src="./images/company.png"  />
+<img src="./images/company.PNG"  />
 
 3.  Écrire une fonction qui prend en paramètre un métier et qui renvoie la pyramide des âges pour ce métier.
 
 
-<img src="./images/pyramid_psychanalist_job_men.png"  />
+<img src="./images/pyramid_psychanalist_job_men.PNG"  />
 
 
-<img src="./images/pyramid_psychanalist_job_women.png"  />
+<img src="./images/pyramid_psychanalist_job_women.PNG"  />
 
 
 <img src="./images/default_job_pyramid_ages.png"  />
