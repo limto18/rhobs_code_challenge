@@ -78,7 +78,7 @@ def get_age_pyramid_for_a_job(job="psychanalyste"):
         "$sort": { "_id": -1 },
     },
     # {
-    #     "$limit": 10
+    #     "$limit": 10 
     # }
     ])
 

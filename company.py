@@ -2,7 +2,7 @@ from rhobs_code_challenge.connection import collection,get_database
 
 def get_company_with_more_than_n_people(n):
     """
-        *Cette fonction renvoie les entreprises de plus de N personnes.
+        *Cette fonction renvoie les entreprises de plus de N personnes. 
     """
     people = collection()
     company= people.aggregate(

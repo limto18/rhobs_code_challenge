@@ -6,7 +6,7 @@ def get_database():
    # mongodb atlas url 
    CONNECTION_STRING = "mongodb+srv://rhobs:123456lamine@rhobscluster.biytn8p.mongodb.net/?retryWrites=true&w=majority"
  
-   # connection using MongoClient. 
+   # connection using MongoClient . 
    client = MongoClient(CONNECTION_STRING)
  
    return client['rhobsData']

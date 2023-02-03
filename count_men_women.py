@@ -15,5 +15,5 @@ def count_men_women():
 if __name__ == "__main__": 
     db = get_database()
   
-#Compte le nombre de femmes / d'hommes.
+#Compte le nombre de femmes / d'hommes. 
     men_women = count_men_women()
