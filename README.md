@@ -1,5 +1,9 @@
 # rhobs_code_challenge
 
+## Collection samples
+
+<img src="./images/collection.png"  />
+
 ## Functions
 
 1. Compte le nombre de femmes / d'hommes.
