@@ -21,6 +21,7 @@
 <img src="./images/company.PNG"  />
 
 3.  Écrire une fonction qui prend en paramètre un métier et qui renvoie la pyramide des âges pour ce métier.
+Note:`_id` is the age
 
 
 <img src="./images/pyramid_psychanalist_job_men.PNG"  />
